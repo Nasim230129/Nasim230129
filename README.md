@@ -1,51 +1,82 @@
-# 👋 Hi there, I'm Nasimul Islam!
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-hero-images.vercel.app/api?username=nasimulgithubusername&color=red&quote=Aspiring%20AI%20Engineer%20from%20Bangladesh&font=Inter&animation=fadeInDown" alt="hero banner" />
+</p>
 
-🎓 I am a passionate Computer Science and Engineering student at **Pabna University of Science and Technology**, with a strong interest in **Artificial Intelligence (AI)** and **Machine Learning**.
+<h1 align="center">Hi 👋, I'm Nasimul Islam</h1>
+<h3 align="center">🚀 AI Enthusiast | Flutter Developer | CSE Student at PUST</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Currently pursuing B.Sc. in Computer Science and Engineering
-- 🔬 Aspiring **AI Engineer**
-- 🛠️ Love to work on real-world problems with code
-- 🌱 Currently exploring advanced topics in AI, Deep Learning & BCI (Brain-Computer Interface)
-- 🚀 Open to research and collaboration in AI, Data Science, and innovative tech projects
+🎓 I am currently a student at **Pabna University of Science and Technology (PUST)**, in the **Department of Computer Science and Engineering**.  
+🚀 I dream of becoming a world-class **AI Engineer**, with deep interest in **Deep Learning**, **Machine Learning**, and **Brain-Computer Interface (BCI)**.
+
+- 🌱 I’m currently learning **AI algorithms**, **Data Structures**, and **Flutter mobile development**
+- 🔭 I'm working on personal projects combining AI & mobile apps
+- 💡 Interested in **Ethical AI**, **Neurotechnology**, and **Generative AI**
+- 🗣 I love exploring open-source, hackathons, and research
 
 ---
 
 ## 🧰 Languages & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🧪 Focus Areas
+
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning & Neural Networks
+- 📱 Cross-platform Mobile App Development (Flutter)
+- 🧬 Brain-Computer Interface (BCI)
+- 🔐 Ethical Hacking (Learning Phase)
+- 🌐 Firebase & Cloud Integration
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasimulgithubusername&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasimulgithubusername&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nasimulgithubusername&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasimulgithubusername&theme=radical" />
 </p>
 
-> 🔄 Replace `nasimulgithubusername` with your actual GitHub username.
+---
+
+## 🧠 AI Quote to Live By
+
+> _"The future belongs to those who believe in the beauty of their dreams."_ – Eleanor Roosevelt  
+> _"AI is not magic. It's mathematics with a purpose."_ – Nasimul Islam
 
 ---
 
-## 📫 Let's Connect!
+## 🌐 Let's Connect
 
-- 📧 Email: nasimul.yourmail@example.com *(Replace with your email)*
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
-- 🌐 Portfolio: *Coming Soon...*
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nasimulgithubusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-*Feel free to explore my repositories and connect with me.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasimulgithubusername&style=flat-square&color=red" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/nasimulgithubusername?label=Followers&style=social"/>
+</p>
 
+---
+
+<p align="center">❤️ Thanks for visiting my profile. Keep coding, keep dreaming.</p>
